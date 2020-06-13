@@ -29,7 +29,7 @@ cacheSolve <- function(x, ...){
 
 
 
-## compute the inverse of the matrix
+##cacheSolve compute the inverse of the matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
